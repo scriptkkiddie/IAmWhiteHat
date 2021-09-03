@@ -19,3 +19,6 @@
 - #IAmWhiteHat: C1 - Intro to Ethical Hacking: The Security, Functionality, and Usability Triangle | Technical 0812
   
   https://www.technical0812.com/post/iamwhitehat-c1-intro-to-ethical-hacking-the-security-functionality-and-usability-triangle
+  
+  
+## Resources 
