@@ -1,3 +1,6 @@
+<img src="IAmWhiteHat_frontcover.png" width="25%">
+
+
 # #IAmWhiteHat
 #IAmWhiteHat - An Ethical Hacking Series by Shobhit Sharma aka ScriptKKiddie officially on www.technical0812.com
 
@@ -16,3 +19,6 @@
 - #IAmWhiteHat: C1 - Intro to Ethical Hacking: The Security, Functionality, and Usability Triangle | Technical 0812
   
   https://www.technical0812.com/post/iamwhitehat-c1-intro-to-ethical-hacking-the-security-functionality-and-usability-triangle
+  
+  
+## Resources 
