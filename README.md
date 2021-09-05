@@ -1,4 +1,4 @@
-<img src="IAmWhiteHat_frontcover.png" width="25%">
+<img src="frontcover.png" width="25%">
 
 
 # #IAmWhiteHat
