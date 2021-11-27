@@ -25,9 +25,9 @@
 
 ### Tools
 
-Module Number | Module Name
-------------- | -----------
-01 | Footprint and Reconnaissance
+Module Number | Module Name | Tools
+------------- | ----------- | -----
+01 | Footprint and Reconnaissance | Google Hacking Techniques, YouTube DataViewer, NAPALM FTP indexer, shodain.io, netcraft.com, PeekYou, theHarvester, Tor Browser, Censys.io, Sherlock, Followerwonk, Ping, Website Informer, Web Data Extractor, HTTrack Web Site Copier, CeWL, eMailTrackerPro, Whois (DomainTools), nslookup, kloth.net, yougetsignal.com, arin.net, tracert, Path Analyzer Pro, Recon-ng, Maltgeo, OSRFramework, FOCA, BillCipher, osintframework.com
 02 | Scanning Networks
 03 | Enumeration
 04 | Vulnerability Analysis
@@ -46,3 +46,6 @@ Module Number | Module Name
 17 | IoT and OT Hacking
 18 | Cloud Computing
 19 | Cryptography
+
+## Lab Tasks
+
