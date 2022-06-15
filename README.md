@@ -1,4 +1,4 @@
-<a href="https://www.technical0812.com"><img src="frontcover.png" alt="Mastering spaCy" height="256px" align="right"></a>
+<a href="https://www.technical0812.com"><img src="frontcover.png" alt="" height="256px" align="right"></a>
 
 
 # #IAmWhiteHat
